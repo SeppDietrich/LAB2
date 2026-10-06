@@ -9,4 +9,3 @@ for(int i =0 ;i<basket.lenght();i++){
 //Other python for loop
 for i in range(1 .. 100):
 	i+=i
-greseala
