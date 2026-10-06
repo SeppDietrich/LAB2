@@ -6,3 +6,6 @@ for fruits in basket:
 //Example for c++ for loop
 for(int i =0 ;i<basket.lenght();i++){
 	basket[i]=0;
+//Other python for loop
+for i in range(1 .. 100):
+	i+=i
