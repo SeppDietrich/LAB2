@@ -11,4 +11,5 @@ for i in range(1 .. 100):
 	i+=i
 Modificare facuta local
 Modificare facuta local
-modificare de test
+feauture nou foarte important
+
